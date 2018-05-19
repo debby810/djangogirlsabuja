@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8AF7-F116
+
+ Directory of C:\Users\PC\Documents\djangogirlsabuja\mysite
+
+05/15/2018  11:36 PM    <DIR>          .
+05/15/2018  11:36 PM    <DIR>          ..
+05/15/2018  12:17 AM    <DIR>          blog
+04/28/2018  12:40 PM            37,888 db.sqlite3
+04/28/2018  08:08 AM               826 manage.py
+05/15/2018  10:14 PM    <DIR>          mysite
+05/15/2018  11:36 PM                 0 requirement.txt
+05/15/2018  10:51 AM    <DIR>          src
+05/15/2018  12:34 AM    <DIR>          urls.py
+               3 File(s)         38,714 bytes
+               6 Dir(s)  450,865,844,224 bytes free
