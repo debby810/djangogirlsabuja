@@ -2,17 +2,18 @@
 <html lang="en-US">
 <head>
 <title>Post List</title>
+{% include 'snippets/css.html' %}
 </head>
 <body>
-    <div>
-        <h1><a href="/">Django Girls Blog</a></h1>
-    </div>
+        {% include 'snippets/nav.html' %}
     {% for post in posts %}
     <div>
         <p>published:{{post.published_date}}</p>
         <h1><a href="">{{post.title}}</a></h1>
         <p>{{post.text|linebreaksbr}}</p>
         </div>>
+
+        {% include 'snippets/js.html' %}
     {% endfor %}
 </body>
 </html>
